@@ -1,3 +1,6 @@
+### Bikeshare data file for US bike share
+Insert US bikeshare data for three cities Chicago, New york and Washington to calculate statistics and outputs
+
 ### Date created
 Include the date you created this project and README file.
 
