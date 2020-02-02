@@ -1,3 +1,6 @@
+### Change city from Chicago to Paris
+Change city from Chicago to Paris in bikeshare.md file.
+
 ### Bikeshare data file for US bike share
 Insert US bikeshare data for three cities Chicago, New york and Washington to calculate statistics and outputs
 
