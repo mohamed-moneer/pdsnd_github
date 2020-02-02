@@ -1,3 +1,5 @@
+### Refactoring by extracting variables
+
 ### Change city from Chicago to Paris
 Change city from Chicago to Paris in bikeshare.md file.
 
